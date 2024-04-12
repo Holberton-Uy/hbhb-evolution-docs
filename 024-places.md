@@ -117,7 +117,7 @@
   }
   ```
 
-  - DELETE /places/{place_id}:
+- DELETE /places/{place_id}:
   Response:
   ```json
   {
